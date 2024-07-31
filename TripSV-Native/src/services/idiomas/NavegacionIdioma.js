@@ -1,0 +1,93 @@
+export const NavegacionIdioma = {
+    vistaSitio: {
+        es: "Vista Sitio",
+        en: "Site View",
+        ch: "网站视图",
+        hindi: "साइट दृश्य",
+        fr: "Vue du site",
+        ara: "عرض الموقع",
+        beng: "সাইট দেখা",
+        rus: "Просмотр сайта",
+        port: "Visualização do Site",
+        urd: "سائٹ دیکھیں",
+        de: "Seitenansicht"
+    },
+    inicioScreen: {
+        es: "Inicio",
+        en: "Home",
+        ch: "首页界面",
+        hindi: "होम स्क्रीन",
+        fr: "Écran d'accueil",
+        ara: "شاشة البداية",
+        beng: "হোম স্ক্রিন",
+        rus: "Экран начального экрана",
+        port: "Tela Inicial",
+        urd: "ہوم اسکرین",
+        de: "Startbildschirm"
+    },
+    mapaSitio: {
+        es: "Mapa del Sitio",
+        en: "Site Map",
+        ch: "网站地图",
+        hindi: "साइट मानचित्र",
+        fr: "Plan du site",
+        ara: "خريطة الموقع",
+        beng: "সাইট ম্যাপ",
+        rus: "Карта сайта",
+        port: "Mapa do Site",
+        urd: "سائٹ نقشہ",
+        de: "Seitenkarte"
+    },
+    estadoSitio: {
+        es: "Estado Sitio",
+        en: "Site Status",
+        ch: "网站状态",
+        hindi: "साइट स्थिति",
+        fr: "État du site",
+        ara: "حالة الموقع",
+        beng: "সাইট স্থিতি",
+        rus: "Состояние сайта",
+        port: "Status do Site",
+        urd: "سائٹ کی حالت",
+        de: "Seitenstatus"
+    },
+    administracionUsuario: {
+        es: "Administracion Usuario",
+        en: "User Administration",
+        ch: "用户管理",
+        hindi: "उपयोगकर्ता प्रशासन",
+        fr: "Administration des utilisateurs",
+        ara: "إدارة المستخدمين",
+        beng: "ব্যবহারকারী প্রশাসন",
+        rus: "Администрирование пользователей",
+        port: "Administração de Usuários",
+        urd: "صارف کی انتظامیہ",
+        de: "Benutzerverwaltung"
+    },
+    administracionSitios: {
+        es: "Administracion Sitios",
+        en: "Site Administration",
+        ch: "网站管理",
+        hindi: "साइट प्रशासन",
+        fr: "Administration du site",
+        ara: "إدارة الموقع",
+        beng: "সাইট প্রশাসন",
+        rus: "Администрирование сайта",
+        port: "Administração de Sites",
+        urd: "سائٹ کا انتظام",
+        de: "Seitenverwaltung"
+    },
+    administracionAnuncio: {
+        es: "Administracion Anuncio",
+        en: "Ad Administration",
+        ch: "广告管理",
+        hindi: "विज्ञापन प्रशासन",
+        fr: "Administration des annonces",
+        ara: "إدارة الإعلانات",
+        beng: "বিজ্ঞাপন প্রশাসন",
+        rus: "Администрирование рекламы",
+        port: "Administração de Anúncios",
+        urd: "اشتہار کی انتظامیہ",
+        de: "Anzeigenverwaltung"
+    }
+};

@@ -1,0 +1,20 @@
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+#Code editors and IDEs configuration
+.idea
+.vscode
+# macOS
+.DS_Store
+#Ignorando archivos de entorno
+.env
+# Temporary files created by Metro to check the health of the file watcher
+.metro-health-check*

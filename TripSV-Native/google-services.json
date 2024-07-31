@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "677864174054",
+    "project_id": "tripsv-fda93",
+    "storage_bucket": "tripsv-fda93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677864174054:android:75c5ecb2cbed0487226627",
+        "android_client_info": {
+          "package_name": "com.ues.TripSv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677864174054-kkca2aiq81akhelna3g54p9li4dn7btq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ues.TripSv",
+            "certificate_hash": "9784bef78ce863969dba0ed1a395c4ca81fa3060"
+          }
+        },
+        {
+          "client_id": "677864174054-rs0rfau1m5ugbr2kv6ketlrjhtlkc8d4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ues.TripSv",
+            "certificate_hash": "6008c2feb3bce306ddbe6094d72e8d0a3e7570b9"
+          }
+        },
+        {
+          "client_id": "677864174054-3a9vo01es8qnmtpi9eqq1klrp66gknk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3CPC8q5PMrntM1WFaEA3EcPEjOlNpjeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677864174054-1aoivbu9esieum9t1k4tnqdubt4o2bog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
