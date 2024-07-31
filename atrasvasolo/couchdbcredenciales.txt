@@ -1,0 +1,17 @@
+https://couchdbbackend.esaapp.com/
+
+atrasvasolo
+jocote&0109UES
+
+
+colecciones:
+atrasvasolo-administradores		
+atrasvasolo-anuncios		
+atrasvasolo-paradas		
+atrasvasolo-rutas
+atrasvasolo-imagenes
+
+la coleccion de imagenes no se va a replicar localmente, sino que se consumirá la de nube
+
+ejemplo para interfaz web
+https://couchdb.esaapp.com/_utils/#database/atrasvasolo-paradas/_all_docs

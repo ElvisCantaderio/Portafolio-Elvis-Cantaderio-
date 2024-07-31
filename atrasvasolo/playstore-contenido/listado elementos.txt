@@ -1,0 +1,10 @@
+El sito en la playstore debe tener los siguientes elementos
+logo.png de 512px x 512 px
+funciones.png de 1024px x 500 px
+imagenes tamaño celular de la apps, de 2 a 8 imagenes con aspecto 16:9
+imagenes tamaño tablet de la apps, 2 a 8 imagenes tablet 7 pulgadas aspecto 16:9 o 9:16
+imagenes tamaño tablet de la apps, 2 a 8 imagenes tablet 10 pulgadas aspecto 16:9 o 9:16 entre 1,080 px y 7,680 px
+una descripción breve de la apps hasta 80 caracteres
+descipción completa, hasta 4000 caracteres
+
+

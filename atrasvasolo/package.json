@@ -1,0 +1,49 @@
+{
+  "name": "atras-va-solo",
+  "version": "1.0.9",
+  "description": "A Quasar Project",
+  "productName": "Atras va Solo APP",
+  "author": "diegoghoul <61204898+diegoghoul@users.noreply.github.com>",
+  "private": true,
+  "scripts": {
+    "lint": "eslint --ext .js,.vue ./",
+    "format": "prettier --write \"**/*.{js,vue,scss,html,md,json}\" --ignore-path .gitignore",
+    "test": "echo \"No test specified\" && exit 0",
+    "dev": "quasar dev",
+    "build": "quasar build",
+    "build:pwa": "quasar build -m pwa"
+  },
+  "dependencies": {
+    "@quasar/cli": "^2.2.1",
+    "@quasar/extras": "^1.0.0",
+    "axios": "^1.5.1",
+    "events": "^3.3.0",
+    "firebase": "^9.19.1",
+    "i18n": "^0.15.1",
+    "leaflet": "^1.9.4",
+    "leaflet.markercluster": "^1.5.3",
+    "nvm": "^0.0.4",
+    "pinia": "^2.0.11",
+    "pouchdb": "^8.0.1",
+    "quasar": "^2.6.0",
+    "vue": "^3.0.0",
+    "vue-i18n": "^9.2.2",
+    "vue-router": "^4.0.0",
+    "vue-socials": "^2.0.3",
+    "web-social-share": "^9.1.0"
+  },
+  "devDependencies": {
+    "@intlify/vue-i18n-loader": "^4.2.0",
+    "@quasar/app-vite": "^1.0.0",
+    "autoprefixer": "^10.4.2",
+    "eslint": "^8.41.0",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-vue": "^9.0.0",
+    "postcss": "^8.4.14",
+    "prettier": "^2.5.1"
+  },
+  "engines": {
+    "node": "18.15.0",
+    "npm": ">= 6.13.4"
+  }
+}

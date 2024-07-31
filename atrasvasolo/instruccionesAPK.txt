@@ -1,0 +1,8 @@
+nvm use 18.15.0
+
+#compilar, antes debes subirle 1 a la version
+quasar build -m cordova -T android
+
+#se firma el archivo aab la clave es llevame esto es para play store CAMBIA LA RUTA FINAL
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore "D:\Sistemas TI\llave para firmas play store\llevame-key.keystore" "D:\GitHub\atrasvasolo\dist\cordova\android\bundle\release\app-release.aab" llevame
+
