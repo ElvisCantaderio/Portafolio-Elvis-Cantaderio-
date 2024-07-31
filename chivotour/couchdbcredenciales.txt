@@ -1,0 +1,16 @@
+https://couchdbbackend.esaapp.com/
+
+chivotour
+papaya&4725UES
+
+
+colecciones:
+chivotour-administradores
+chivotour-sitios
+chivotour-usuarios
+chivotour-imagenes
+
+la coleccion de imagenes no se va a replicar localmente, sino que se consumirá la de nube
+
+ejemplo para interfaz web
+https://couchdb.esaapp.com/_utils/#database/chivotour-sitios/_all_docs

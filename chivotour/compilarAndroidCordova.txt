@@ -1,0 +1,5 @@
+nvm use 18.15.0
+#todo para cordova @11.0.0
+quasar build -m cordova -T android
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore "D:\Sistemas TI\llave para firmas play store\llevame-key.keystore" "D:\GitHub\chivotour\dist\cordova\android\bundle\release\app-release.aab" llevame
+
